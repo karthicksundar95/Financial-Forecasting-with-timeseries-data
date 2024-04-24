@@ -1,4 +1,4 @@
-<h1 align="center">FinAutoML</h1>
+<h1 align="center">FinAutoML (Financial Forecasting with time series data)</h1>
 
 <p align="center">
   AutoML package to perform automated statistical tests and finanial forecasting experiments with 
