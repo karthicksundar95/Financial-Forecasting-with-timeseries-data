@@ -1,7 +1,7 @@
 <h1 align="center">FinAutoML (Financial Forecasting with time series data)</h1>
 
 <p align="center">
-  The project aim is to cover entire spectrum of machine learning algorithmic solutions for time series forecasting in a one-stop solution by developed an python package to perform automated statistical tests and finanial forecasting experiments with 
+  The project aim is to cover entire spectrum of machine learning algorithmic solutions for time series forecasting as a one-stop solution by developing an python package to perform automated statistical tests and finanial forecasting experiments with 
   reporting on financial time series data.
 </p>
 
