@@ -1,7 +1,7 @@
 <h1 align="center">FinAutoML</h1>
 
 <p align="center">
-  AutoML package to perform automated statistical tests and forecasting experiments with 
+  AutoML package to perform automated statistical tests and finanial forecasting experiments with 
   reporting on financial time series data.
 </p>
 
